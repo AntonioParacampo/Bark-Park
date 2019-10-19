@@ -4,7 +4,8 @@ React app to help you and your dogs check-out local dog parks and make new frien
 
 ![](https://i.imgur.com/VspCMYM.png)
 
-![](https://media.giphy.com/media/69sHeFFc6ybtxzQir6/giphy.gif)
+![](https://camo.githubusercontent.com/9f2fbc4248ddaf2497425659c1adf795cf944141/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f363973486546466336796274787a516972362f67697068792e676966)
+
 
 
 
